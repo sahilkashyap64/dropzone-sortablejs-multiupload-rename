@@ -1,13 +1,11 @@
 ## Dropzone.js Multiupload with rename functionality
 
 
-https://user-images.githubusercontent.com/32007662/147849196-5ba3c92c-1fd4-49e4-a83f-e7e998ba05bb.mp4
-
 
 
 ### Scenrio: User wants to upload logos of tv channels/sports team etc, if he uploads one by one it is a hassle. 
 
-- Rough design, how UI might look
+- Rough design, how UI might look(How I intially imagined it to be)
 
 
 ![UI drawn using excalidraw](https://raw.githubusercontent.com/sahilkashyap64/dropzone-sortablejs-multiupload-rename/master/img/UI%20formultiupload%20and%20rename.png)
@@ -28,3 +26,7 @@ Renaming is done via server side,I just pass 2 arrays
 - Names
 
 Simply merge the arrays,save the file.
+
+https://user-images.githubusercontent.com/32007662/147849196-5ba3c92c-1fd4-49e4-a83f-e7e998ba05bb.mp4
+
+
