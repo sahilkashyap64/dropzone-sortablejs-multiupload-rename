@@ -1,5 +1,10 @@
 ## Dropzone.js Multiupload with rename functionality
 
+
+https://user-images.githubusercontent.com/32007662/147849196-5ba3c92c-1fd4-49e4-a83f-e7e998ba05bb.mp4
+
+
+
 ### Scenrio: User wants to upload logos of tv channels/sports team etc, if he uploads one by one it is a hassle. 
 
 - Rough design, how UI might look
