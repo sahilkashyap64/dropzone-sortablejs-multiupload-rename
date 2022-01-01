@@ -21,11 +21,12 @@
 | jquery.js | ^0.3.1 | simple add/remove items from dom|
 
 Using Html drag and drop API, was able to create the ui.
-Renaming is done via server side,I just pass 2 arrays
+Renaming is done via server side(Laravel),I just pass 2 arrays
 - Files
 - Names
 
 Simply merge the arrays,save the file.
+- For backend check gist [code](https://gist.github.com/sahilkashyap64/7db7a3d0e2877158bcd293223564707e)
 
 https://user-images.githubusercontent.com/32007662/147849196-5ba3c92c-1fd4-49e4-a83f-e7e998ba05bb.mp4
 
